@@ -17,5 +17,5 @@ var coordenadas = () => {
 }
 
 btnyes.addEventListener('click', () => {
-    alert('Sabía que dirías que sí💛💐 ¡Te amo tanto! Me alegra mucho decirte que ambos acabamos de ganar: Tú al mejor compañero de vida y yo a la mujer de mis sueños🥰. Voy a hacerte infinitamente feliz lo que me sobra de vida.');
+    alert('¡Uy, por poco y no!. Te amo, gracias por ser el valentín más bonito de mi vida 🌺');
 });
