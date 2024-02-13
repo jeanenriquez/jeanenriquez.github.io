@@ -17,5 +17,5 @@ var coordenadas = () => {
 }
 
 btnyes.addEventListener('click', () => {
-    alert('¡Uy, por poco y no!. Te amo, gracias por ser el valentín más bonito de mi vida 🌺');
+    alert('¡Uy, por poco y no! Te amo, gracias por ser el valentín más bonito de mi vida 🌺');
 });
